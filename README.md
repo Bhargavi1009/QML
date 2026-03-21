@@ -13,6 +13,7 @@ This work is implemented based on the methodology described in the following con
 > *“Quantum Machine Learning for Image Classification using Variational Quantum Circuits”*
 > (Conference Paper – adapted implementation)
 
+
 ---
 
 ## 🎯 Objectives
