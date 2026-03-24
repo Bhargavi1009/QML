@@ -29,7 +29,7 @@ This work is implemented based on the methodology described in the following con
 
 Dataset used: **PlantDoc Dataset**
 
-🔗 https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
+🔗 [https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset]
 
 ### Dataset Features:
 
